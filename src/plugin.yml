@@ -1,0 +1,7 @@
+name: Vanish
+main: pl.vatiaz.core.CorePlugin
+version: 1.0
+commands:
+  vanish:
+    description: Komenda /vanish
+    usage: /<command>
